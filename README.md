@@ -1,6 +1,6 @@
 # Predicting Telco Customer Churn: A Business-Centric Approach
 
-!([https://placehold.co/800x300/f0f0f0/333333?text=Telco+Customer+Churn+Analysis](https://miro.medium.com/1*WZdoYPpmiIk1AcPQ1YHWug.png))
+!(https://miro.medium.com/1*WZdoYPpmiIk1AcPQ1YHWug.png)
 
 ## Table of Contents
 - [Project Overview](#project-overview)
