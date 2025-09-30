@@ -69,11 +69,6 @@ The final selected model, a **Logistic Regression classifier with SMOTE and a tu
 -   **Optimized Business Value:** By tuning the prediction threshold based on a cost-benefit matrix, the model was optimized to maximize net savings from retention campaigns, even at the cost of a lower precision.
 
 ---
-
-## Getting Started
-
-To run this analysis on your local machine, follow these steps:
-
 **1. Clone the repository:**
 ```bash
 git clone <your-repository-url>
