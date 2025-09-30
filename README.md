@@ -1,0 +1,2 @@
+# Predicting-Telco-Customer-Churn-A-Business-Centric-Approach
+This project predicts Telco customer churn using a business-centric machine learning approach. It uses a Logistic Regression model, optimized with SMOTE to handle class imbalance, and tunes it based on the financial impact of retention efforts. Key churn drivers are identified to provide actionable retention strategies and maximize business value.
