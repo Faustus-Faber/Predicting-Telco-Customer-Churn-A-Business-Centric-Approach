@@ -1,6 +1,6 @@
 # Predicting Telco Customer Churn: A Business-Centric Approach
 
-(https://miro.medium.com/1*WZdoYPpmiIk1AcPQ1YHWug.png)
+![Customer Churn](https://miro.medium.com/1*WZdoYPpmiIk1AcPQ1YHWug.png)
 
 ## Table of Contents
 - [Project Overview](#project-overview)
